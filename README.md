@@ -1,24 +1,20 @@
 # Smart Dual-Band (ANT+/BLE) Cycling Cadence Sensor
 
-An open-source, ultra-lightweight cycling cadence tracker built around the Nordic nRF52840 system architecture. This device simultaneously broadcasts real-time pedal RPM data over Bluetooth Low Energy (BLE) and ANT+ protocols, allowing it to interface concurrently with mobile training software (like Zwift) and dedicated sports telemetry hardware (like Garmin watches).
+An open-source, ultra-lightweight cycling cadence tracker built around the Nordic nRF52840 system architecture, broadcasting real-time RPM data simultaneously over Bluetooth Low Energy (BLE) and ANT+ protocols [Seeed Studio Wiki](https://seeedstudio.com).
 
-##  System Architecture
+## Bill of Materials (BOM)
 
-- **Core Microcontroller:** Seeed Studio XIAO nRF52840
-- **Telemetry Sensor:** KY-003 Digital Hall Effect Module
-- **Trigger Element:** Neodymium Magnet Matrix (crank-mounted)
-- **Power Configuration:** CR2032 3V Coin Cell Array
+| Part Name | Quantity | Purpose | Sourcing Link |
+| :--- | :--- | :--- | :--- |
+| Seeed Studio XIAO nRF52840 | 1 | Core microcontroller with native BLE and ANT+ radio support. | [Seeed Studio Wiki](https://seeedstudio.com) |
+| KY-003 Hall Effect Sensor Module | 1 | Magnetic proximity sensor to track pedal rotations. | [Sensor Specifications](https://seeedstudio.com) |
+| Neodymium Magnets & CR2032 Holder | 1 each | Crank magnet and lightweight power supply. | [Hardware Sourcing](https://seeedstudio.com) |
 
-##  Repository Contents
+## System Architecture & Development
 
-- `/firmware` : Arduino C++ source code files for hardware pulse tracking and dual-protocol stack radio initialization.
-- `/hardware` : Virtual pinout schematics and breadboard wiring diagrams created via Wokwi simulation profiles.
-
-##  ChromeOS Development Framework
-
-Because this project is built on a Chromebook environment, the entire compilation pipeline avoids heavy desktop software installations:
-1. **Simulation Engine:** Hardware circuits and validation models are checked online via [Wokwi.com](https://wokwi.com).
-2. **Compiler & Flashing:** Code deployment and firmware adjustments are managed live using the browser-based [Arduino Cloud Web IDE](https://arduino.cc).
+- **Pin Connections:** Hall Effect VCC to 3V3, GND to GND, and Signal OUT to Digital Pin D1 (Interrupt).
+- **Repository Structure:** Includes `/firmware` for C++ scripts, `/hardware/cad` for 3D enclosures, and `/hardware/pcb` for schematics.
+- **ChromeOS Workflow:** Uses Wokwi for simulation and Arduino Cloud Web IDE for compilation and flashing.
 
 ---
 *Built as a high school engineering project funded through Hack Club Forge.*
