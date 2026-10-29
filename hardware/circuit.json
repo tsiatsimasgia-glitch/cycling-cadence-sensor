@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "author": "tsiatsimasgia-glitch",
+  "board": "seeed-xiao-nrf52840",
+  "components": [
+    { "type": "seeed-xiao-nrf52840", "id": "mcu", "label": "Microcontroller" },
+    { "type": "ky-003-hall-sensor", "id": "sensor", "label": "Cadence Proximity Sensor" },
+    { "type": "cr2032-battery", "id": "pwr", "label": "3V Coin Cell Source" }
+  ],
+  "connections": [
+    [ "mcu:GND", "sensor:GND", "black", [ "v0" ] ],
+    [ "mcu:3V3", "sensor:VCC", "red", [ "v0" ] ],
+    [ "mcu:D1", "sensor:OUT", "green", [ "v0" ] ],
+    [ "mcu:GND", "pwr:NEG", "black", [ "v0" ] ],
+    [ "mcu:VEXT", "pwr:POS", "red", [ "v0" ] ]
+  ]
+}
