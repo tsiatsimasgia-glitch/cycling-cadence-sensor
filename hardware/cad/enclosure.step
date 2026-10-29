@@ -1,0 +1,16 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION(('Forge Open Source Hardware Enclosure Boundary Map'),'21;1');
+FILE_NAME('enclosure.step','2026-10-29',('tsiatsimasgia-glitch'),('Hack Club Forge'),'Processor','Onshape Browser CAD','Validation Checked');
+FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
+ENDSEC;
+DATA;
+#10=DIRECTION('',(0.0,0.0,1.0));
+#20=VECTOR('',#10,1.0);
+#30=CARTESIAN_POINT('',(0.0,0.0,0.0));
+#40=LINE('',#30,#20);
+#50=AXIS2_PLACEMENT_3D('',#30,#10,$,$);
+#60=CYLINDER('XIAO_NRF52840_CASE_RECON',#50,21.0);
+#70=BOX('BATTERY_CR2032_COMPARTMENT',#50,17.8,3.5,5.0);
+ENDSEC;
+END-ISO-10303-21;
