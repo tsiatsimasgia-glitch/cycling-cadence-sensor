@@ -4,7 +4,7 @@ An open-source, ultra-lightweight cycling cadence tracker utilizing the Nordic n
 
 ## 🚀 Live Interactive Simulator
 
-[Launch Live Wokwi Cadence Simulator](https://wokwi.com)
+[Launch Live Wokwi Cadence Simulator](https://wokwi.com/projects/479314929800269825)
 
 ## 📊 Bill of Materials (BOM) & Cost Estimation
 
