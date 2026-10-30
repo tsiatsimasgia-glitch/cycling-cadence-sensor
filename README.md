@@ -10,10 +10,10 @@ An open-source, ultra-lightweight cycling cadence tracker utilizing the Nordic n
 
 | Part Name | Quantity | Purpose | Sourcing Link | Estimated Cost |
 | :--- | :--- | :--- | :--- | :--- |
-| Seeed Studio XIAO nRF52840 | 1 | Core microcontroller with native BLE and ANT+ radio support. | [Skroutz Marketplace](https://www.skroutz.gr/s/56684970/Seeed-Studio-Xiao-Nrf52840.html) | €17.90 |
-| KY-003 Digital Hall Effect Sensor | 1 | High-precision magnetic sensor to register pedal rotations. | [Skroutz Marketplace](https://www.skroutz.gr/s/31876151/Optum-Magnitikos-Aisthitiras-KY-003.html) | €1.40 |
-| Battery Holder 1xCR2032 | 1 | Ultra-lightweight 3V power delivery matrix for the bike crank. | [Skroutz Marketplace](https://www.skroutz.gr/c/4750/mpatariothiki/f/1429104/CR2032.html) | €0.20 |
-| **Total Project Budget** | | | | **~€19.50** |
+| Seeed Studio XIAO nRF52840 | 1 | Core microcontroller with native BLE and ANT+ radio support. | [Skroutz Marketplace](https://www.skroutz.gr/s/56684970/Seeed-Studio-Xiao-Nrf52840.html) | €19 |
+| KY-003 Digital Hall Effect Sensor | 1 | High-precision magnetic sensor to register pedal rotations. | [Skroutz Marketplace](https://www.skroutz.gr/s/31876151/Optum-Magnitikos-Aisthitiras-KY-003.html) | €2 |
+| Battery Holder 1xCR2032 | 1 | Ultra-lightweight 3V power delivery matrix for the bike crank. | [Skroutz Marketplace](https://www.skroutz.gr/s/30290613/Goobay-Vasi-Mpatarias-56617.html?product_id=316269338&sponsored=listing) | €1 |
+| **Total Project Budget** | | | | **~€22 ** |
 
 ## 🛠️ System Architecture & Hardware Connections
 
