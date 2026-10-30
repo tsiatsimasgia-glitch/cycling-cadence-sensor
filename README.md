@@ -13,9 +13,9 @@ An open-source, ultra-lightweight cycling cadence tracker utilizing the Nordic n
 | Seeed Studio XIAO nRF52840 | 1 | Core microcontroller with native BLE and ANT+ radio support. | [Skroutz Marketplace](https://www.skroutz.gr/s/56684970/Seeed-Studio-Xiao-Nrf52840.html) | €19 |
 | KY-003 Digital Hall Effect Sensor | 1 | High-precision magnetic sensor to register pedal rotations. | [Skroutz Marketplace](https://www.skroutz.gr/s/31876151/Optum-Magnitikos-Aisthitiras-KY-003.html) | €2 |
 | Battery Holder 1xCR2032 | 1 | Ultra-lightweight 3V power delivery matrix for the bike crank. | [Skroutz Marketplace](https://www.skroutz.gr/s/30290613/Goobay-Vasi-Mpatarias-56617.html?product_id=316269338&sponsored=listing) | €1 |
-| Battery | 1 | Ultra-lightweight 3V power battery . | [Skroutz Marketplace](https://www.skroutz.gr/s/64628022/battery-set-2x-cr2032-duracell-lithium-3v-225mah-20x3-2mm.html) | €2 |
+| Battery | 1 | Ultra-lightweight 3V power battery . | [Skroutz Marketplace](https://www.skroutz.gr/s/64628022/battery-set-2x-cr2032-duracell-lithium-3v-225mah-20x3-2mm.html) | €4 |
 |  neodymium magnets | 1 | The magnets that will tell the magnetic sensor to capture a full cycle of the cranks | [Skroutz Marketplace](https://www.skroutz.gr/s/64506385/magnitis-neodymiou-strogylos-12x3mm-set-10-temachia-cresman-12996.html) | €3 |
-| **Total Project Budget** | | | | **~€22 ** |
+| **Total Project Budget** | | | | **~€28 ** |
 
 ## 🛠️ System Architecture & Hardware Connections
 
