@@ -1,19 +1,19 @@
 # Smart Dual-Band (ANT+/BLE) Cycling Cadence Sensor
 
-An open-source, ultra-lightweight cycling cadence tracker utilizing the Nordic nRF52840 architecture to broadcast real-time RPM data simultaneously over Bluetooth Low Energy (BLE) and ANT+ protocols [Seeed Studio Wiki](https://seeedstudio.com).
+An open-source, ultra-lightweight cycling cadence tracker utilizing the Nordic nRF52840 architecture to broadcast real-time RPM data simultaneously over Bluetooth Low Energy (BLE) and ANT+ protocols.
 
 ## 🚀 Live Interactive Simulator
 
-[Launch Live Wokwi Cadence Simulator](https://wokwi.com/projects/479314929800269825)
+[Launch Live Wokwi Cadence Simulator](https://wokwi.com)
 
-## 📊 Bill of Materials (BOM) & Budget Sourcing
+## 📊 Bill of Materials (BOM) & Budget Sourcing (Skroutz)
 
 | Part Name | Quantity | Purpose | Sourcing Link | Estimated Cost |
 | :--- | :--- | :--- | :--- | :--- |
-| Seeed Studio XIAO nRF52840 | 1 | Core microcontroller with native BLE and ANT+ radio support. | [Nettop Store](https://nettop.gr/index.php/development-boards/esp/seeed-studio-xiao-nrf52840.html) | €8.40 |
-| KY-003 Digital Hall Effect Sensor | 1 | High-precision magnetic sensor to register pedal rotations. | [Nettop Store](https://nettop.gr/) | €2.10 |
-| Battery Holder 1xCR2032 | 1 | Ultra-lightweight 3V power delivery matrix for the bike crank. | [Nettop Store](https://nettop.gr/) | €0.70 |
-| **Total Project Budget** | | | | **~€11.20** |
+| Seeed Studio XIAO nRF52840 | 1 | Core microcontroller with native BLE and ANT+ radio support. | [Skroutz Marketplace](https://www.skroutz.gr/s/56684970/Seeed-Studio-Xiao-Nrf52840.html) | €17.90 |
+| KY-003 Digital Hall Effect Sensor | 1 | High-precision magnetic sensor to register pedal rotations. | [Skroutz Marketplace](https://www.skroutz.gr/s/31876151/Optum-Magnitikos-Aisthitiras-KY-003.html) | €1.40 |
+| Battery Holder 1xCR2032 | 1 | Ultra-lightweight 3V power delivery matrix for the bike crank. | [Skroutz Marketplace](https://www.skroutz.gr/c/4750/mpatariothiki/f/1429104/CR2032.html) | €0.20 |
+| **Total Project Budget** | | | | **~€19.50** |
 
 ## 🛠️ System Architecture & Hardware Connections
 
