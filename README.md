@@ -22,6 +22,8 @@ An open-source, ultra-lightweight cycling cadence tracker utilizing the Nordic n
 * **Pin Mapping:** Hall Effect sensor VCC connects to 3V3, GND connects to system ground, and Signal OUT connects to Digital Pin 2 (Hardware Interrupt).
 * **Source Layout Configuration:** Complete software wiring paths and board layout mappings are actively tracked under the tracking schematic file path `/hardware/circuit.json`.
 * **ChromeOS Workflow:** Circuit nodes simulated via Wokwi browser stacks and compiled using the cloud-based Arduino Web IDE platform.
+  <img width="1917" height="935" alt="Screenshot 2026-10-30 4 43 23 PM" src="https://github.com/user-attachments/assets/ee3e269b-c258-4e8b-9516-6d8af6b44315" />
+
 
 ---
 *Built as a high school engineering project funded through Hack Club Forge.*
