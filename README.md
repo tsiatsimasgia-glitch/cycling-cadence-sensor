@@ -24,6 +24,8 @@ An open-source, ultra-lightweight cycling cadence tracker utilizing the Nordic n
 * **ChromeOS Workflow:** Circuit nodes simulated via Wokwi browser stacks and compiled using the cloud-based Arduino Web IDE platform.
   <img width="1917" height="935" alt="Screenshot 2026-10-30 4 43 23 PM" src="https://github.com/user-attachments/assets/ee3e269b-c258-4e8b-9516-6d8af6b44315" />
 
+<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/aeb7b5d2-1807-4cc3-bcaf-73d19fbf4ecd" />
+<img width="927" height="580" alt="Screenshot 2026-11-02 4 39 37 PM" src="https://github.com/user-attachments/assets/2a2478b8-758c-46bf-aa8b-f6003b25897d" />
 
 ---
 *Built as a high school engineering project funded through Hack Club Forge.*
