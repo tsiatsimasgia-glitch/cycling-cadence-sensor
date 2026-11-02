@@ -1,14 +1,1 @@
 
-// Basic CAD Placeholder for Sensor Housing & Crank Mount
-// Project: Smart Dual-Band Cycling Cadence Sensor
-
-module sensor_housing() {
-    difference() {
-        cube([25, 15, 8], center = true);
-        translate([0, 0, 1])
-            cube([21, 11, 8], center = true);
-    }
-}
-
-// Render base model
-sensor_housing();
