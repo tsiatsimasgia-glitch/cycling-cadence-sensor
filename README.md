@@ -10,7 +10,7 @@ An open-source, ultra-lightweight cycling cadence tracker utilizing the Nordic n
 
 | Part Name | Quantity | Purpose | Sourcing Link | Estimated Cost |
 | :--- | :--- | :--- | :--- | :--- |
-| Seeed Studio XIAO nRF52840 | 1 | Core microcontroller with native BLE and ANT+ radio support. | [Skroutz Marketplace](https://www.skroutz.gr/s/56684970/Seeed-Studio-Xiao-Nrf52840.html) | €19 |
+| Seeed Studio XIAO nRF52840 | 1 | Core microcontroller with native BLE and ANT+ radio support. | [Skroutz Marketplace](https://www.skroutz.gr/s/56684970/Seeed-Studio-Xiao-Nrf52840.html) | €21 |
 | KY-003 Digital Hall Effect Sensor | 1 | High-precision magnetic sensor to register pedal rotations. | [Skroutz Marketplace](https://www.skroutz.gr/s/31876151/Optum-Magnitikos-Aisthitiras-KY-003.html) | €2 |
 | Battery Holder 1xCR2032 | 1 | Ultra-lightweight 3V power delivery matrix for the bike crank. | [Skroutz Marketplace](https://www.skroutz.gr/s/30290613/Goobay-Vasi-Mpatarias-56617.html?product_id=316269338&sponsored=listing) | €5 |
 | Battery | 1 | Ultra-lightweight 3V power battery . | [Skroutz Marketplace](https://www.skroutz.gr/s/64628022/battery-set-2x-cr2032-duracell-lithium-3v-225mah-20x3-2mm.html) | €4 |
