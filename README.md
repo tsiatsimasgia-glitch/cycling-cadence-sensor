@@ -15,7 +15,7 @@ An open-source, ultra-lightweight cycling cadence tracker utilizing the Nordic n
 | Battery Holder 1xCR2032 | 1 | Ultra-lightweight 3V power delivery matrix for the bike crank. | [Skroutz Marketplace](https://www.skroutz.gr/s/30290613/Goobay-Vasi-Mpatarias-56617.html?product_id=316269338&sponsored=listing) | €5 |
 | Battery | 1 | Ultra-lightweight 3V power battery . | [Skroutz Marketplace](https://www.skroutz.gr/s/64628022/battery-set-2x-cr2032-duracell-lithium-3v-225mah-20x3-2mm.html) | €4 |
 |  neodymium magnets | 1 | The magnets that will tell the magnetic sensor to capture a full cycle of the cranks | [Skroutz Marketplace](https://www.skroutz.gr/s/64506385/magnitis-neodymiou-strogylos-12x3mm-set-10-temachia-cresman-12996.html) | €3 |
-| **Total Project Budget** | | | | **~€45 ** |
+| **Total Project Budget (including shipping)** | | | | **~€45 ** |
 
 ## 🛠️ System Architecture & Hardware Connections
 
